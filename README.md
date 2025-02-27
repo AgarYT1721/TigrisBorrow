@@ -1,2 +1,2 @@
 # TigrisBorrow
-An Online Borrowing System
+An Inventory Management System
